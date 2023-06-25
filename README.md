@@ -17,7 +17,7 @@ A web app to create a well formatted resume in minutes. you can also download yo
 
 ### Prerequisites
 
-have a working git on your localmachine.
+have a working git on your local machine.
 
 
 ## Show your support
