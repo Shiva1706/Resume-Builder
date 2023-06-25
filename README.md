@@ -11,9 +11,9 @@ A web app to create a well formatted resume in minutes. you can also download yo
  - *[Reactjs](https://reactjs.org/)*
  - *[Chakra UI](https://chakra-ui.com/)*
  
-## Live Demo Link
+//## Live Demo Link
 
-   Check it out live :point_right: 
+   //Check it out live :point_right: 
 
 ### Prerequisites
 
